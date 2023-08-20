@@ -1,4 +1,4 @@
-<p align="center"><a href="https://api3.org" target="_blank"><img alt="API3" title="API3" src="../src/API3-ECO-LOGO.png" width="100%">
+<p align="center"><a href="https://api3.org" target="_blank"><img alt="API3" title="API3" src="https://raw.githubusercontent.com/api3-ecosystem/.github/master/src/API3-ECO-LOGO.png" width="100%">
 </a>
 </p>
 

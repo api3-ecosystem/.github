@@ -2,8 +2,7 @@
 </a>
 </p>
 
-[![Managed dAPIs](https://img.shields.io/badge/Managed%20dAPIs-Live-green)](https://docs.api3.org/guides/dapis/subscribing-managed-dapis/)
-[![Self-funded dAPIs](https://img.shields.io/badge/Self%20Funded%20dAPIs-Live-green)](https://docs.api3.org/guides/dapis/subscribing-self-funded-dapis/)
+[![dAPIs](https://img.shields.io/badge/Managed%20dAPIs-Live-green)](https://docs.api3.org/guides/dapis/subscribing-managed-dapis/)
 [![API3 Market](https://img.shields.io/badge/API3%20Market-Live-green)](https://market.api3.org/)
 [![Follow us!](https://img.shields.io/badge/Follow%20us%20on%20Twitter-%20-green)](https://twitter.com/API3DAO)
 [![Join our Discord!](https://img.shields.io/badge/Join%20our%20Discord!-%20-green)](https://discord.com/invite/qnRrcfnm5W)
